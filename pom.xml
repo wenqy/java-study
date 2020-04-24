@@ -26,5 +26,6 @@
   </build>
   <modules>
   	<module>java8-study</module>
+  	<module>spring-security-study</module>
   </modules>
 </project>
